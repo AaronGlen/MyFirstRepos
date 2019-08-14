@@ -1,3 +1,3 @@
-#QA
-##Training in:
+# QA
+## Training in:
 ### Git
